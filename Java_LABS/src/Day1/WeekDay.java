@@ -1,4 +1,4 @@
-package Day2;
+package Day1;
 import java.util.Scanner;
 
 
@@ -6,10 +6,8 @@ public class WeekDay {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int Day;
-        System.out.println("enter your Day:");
+        System.out.println("Enter your Day:");
         Day=scanner.nextInt();
-         // 👉 Input: change this to any number from 1 to 7
-
         switch(Day) {
             case 1:
                 System.out.println("Sunday");

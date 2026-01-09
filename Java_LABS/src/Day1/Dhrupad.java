@@ -1,4 +1,4 @@
-package Day2;
+package Day1;
 
 public class Dhrupad {
     public static void main(String[] args) {
